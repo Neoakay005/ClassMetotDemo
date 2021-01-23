@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo.csproj", "{C0E25A9D-8669-46D8-AA5F-807EC480D22D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo.csproj", "{C0E25A9D-8669-46D8-AA5F-807EC480D22D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryOdev", "..\DictionaryOdev\DictionaryOdev.csproj", "{CB08D00A-B9B4-48A6-8249-58F51EC885DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C0E25A9D-8669-46D8-AA5F-807EC480D22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0E25A9D-8669-46D8-AA5F-807EC480D22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0E25A9D-8669-46D8-AA5F-807EC480D22D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB08D00A-B9B4-48A6-8249-58F51EC885DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB08D00A-B9B4-48A6-8249-58F51EC885DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB08D00A-B9B4-48A6-8249-58F51EC885DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB08D00A-B9B4-48A6-8249-58F51EC885DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
